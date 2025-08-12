@@ -1,6 +1,5 @@
 ---
-
-##🤖 Chatbot-NLP-avec-Réseau-de-Neurones-PyTorch
+# 🤖 Chatbot-NLP-avec-Réseau-de-Neurones-PyTorch 
 Ce projet implémente un chatbot conversationnel utilisant un réseau de neurones entièrement connecté développé avec PyTorch. Il traite le langage naturel via un modèle entraîné sur un jeu d’intentions défini dans intents.json et peut répondre automatiquement à des requêtes textuelles de manière interactive.
 
 ---
